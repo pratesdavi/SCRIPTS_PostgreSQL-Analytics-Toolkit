@@ -1,1 +1,1 @@
-# SCRIPTS PostgreSQL Analytics Toolkit
+# PostgreSQL Analytics Toolkit 🔍📊
