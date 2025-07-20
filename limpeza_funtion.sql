@@ -32,3 +32,8 @@ $$;
 
 
 call limpeza f_coleta_preco();
+
+
+
+
+--- fundafsgasf sfasfas
