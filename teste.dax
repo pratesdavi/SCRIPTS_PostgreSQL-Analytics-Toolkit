@@ -1,0 +1,5 @@
+Faturamento de vendedores > milhao = 
+    CALCULATE(
+        [Faturamento],
+        FILTER(dVendedor,
+        [Faturamento] > 1000))
